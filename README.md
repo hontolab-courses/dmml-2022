@@ -25,7 +25,7 @@ Googleアカウントを持っていない学生は，授業までに取得し�
 | |  日時  | トピック | 講義資料 | Hands-onコード（確認用） | Hands-onコード（未実行） |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | 04/13 | ガイダンス：機械学習の概要 & はじめての機械学習 | [Speaker Deck](https://speakerdeck.com/trycycle/tetamaininkutoji-jie-xue-xi-2022-di-1hui-20220413) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2022/blob/main/notebook/introduction-to-ml.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2022/blob/main/notebook/clean/introduction-to-ml.ipynb) |
-| 2 | 04/20 | クラスタリング1：K-means & 階層的クラスタリング |  |  |  |
+| 2 | 04/20 | クラスタリング1：K-means & 階層的クラスタリング | [Speaker Deck](https://speakerdeck.com/trycycle/tetamaininkutoji-jie-xue-xi-2022-di-2hui-20220420) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2022/blob/main/notebook/introduction-to-clustering.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2022/blob/main/notebook/clean/introduction-to-clustering.ipynb) |
 | 3 | 04/27 | クラスタリング2：密度ベースクラスタリング & クラスタリングの実用上の問題 |  |  |  |
 | 4 | 05/11 | 分類1：K近傍法 & 教師あり機械学習のお作法 |  |  |  |
 | 5 | 05/18 | ゲスト講師による講演（加藤先生 from 筑波大学） |  |  |  |
