@@ -30,7 +30,7 @@ Googleアカウントを持っていない学生は，授業までに取得し�
 | 4 | 05/11 | 分類1：K近傍法 & 教師あり機械学習のお作法 | [Speaker Deck](https://speakerdeck.com/trycycle/tetamaininkutoji-jie-xue-xi-2022-di-4hui-20220511) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2022/blob/main/notebook/knn-and-ml-ops.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2022/blob/main/notebook/clean/knn-and-ml-ops.ipynb) |
 | 5 | 05/18 | ゲスト講師による講演（加藤先生 from 筑波大学） | [OneDrive（学内限定）](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EeECHecIPEtOp6Sc2Hzbr5wBlGwGAH6C0iWr_gOpecNNeg?e=1iSuZI) |  |  |
 | 6 | 05/25 | 分類2：サポートベクターマシン | [Speaker Deck](https://speakerdeck.com/trycycle/tetamaininkutoji-jie-xue-xi-2022-di-6hui-20220525) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2022/blob/main/notebook/svm.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2022/blob/main/notebook/clean/svm.ipynb) |
-| 7 | 06/01 | ゲスト講師による講演（山本岳洋先生 from 兵庫県立大学） |  |  |
+| 7 | 06/01 | ゲスト講師による講演（山本岳洋先生 from 兵庫県立大学） | [OneDrive（学内限定）](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EQuJFRiB6jxErTLc65OZAIAByY4pNjFqqGyTTKYVSTrc1Q?e=obrjQ8) |  |
 | 8 | 06/08 | 分類3：ニューラルネットワーク入門 |  |  |
 | 10 | 06/22 | ゲスト講師による講演（松村先生 from Wantedly） |  |  |
 
