@@ -31,17 +31,15 @@ Googleアカウントを持っていない学生は，授業までに取得し�
 | 5 | 05/18 | ゲスト講師による講演（加藤先生 from 筑波大学） | [OneDrive（学内限定）](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EeECHecIPEtOp6Sc2Hzbr5wBlGwGAH6C0iWr_gOpecNNeg?e=1iSuZI) |  |  |
 | 6 | 05/25 | 分類2：サポートベクターマシン | [Speaker Deck](https://speakerdeck.com/trycycle/tetamaininkutoji-jie-xue-xi-2022-di-6hui-20220525) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2022/blob/main/notebook/svm.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2022/blob/main/notebook/clean/svm.ipynb) |
 | 7 | 06/01 | ゲスト講師による講演（山本岳洋先生 from 兵庫県立大学） | [OneDrive（学内限定）](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EQuJFRiB6jxErTLc65OZAIAByY4pNjFqqGyTTKYVSTrc1Q?e=obrjQ8) |  |
-| 8 | 06/08 | 分類3：ニューラルネットワーク入門 |  |  |
+| 8 | 06/08 | 分類3：ニューラルネットワーク入門 | [Speaker Deck](https://speakerdeck.com/trycycle/tetamaininkutoji-jie-xue-xi-2022-di-8hui-20220608) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2022/blob/main/notebook/neural-network.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2022/blob/main/notebook/clean/neural-network.ipynb) |
 | 10 | 06/22 | ゲスト講師による講演（松村先生 from Wantedly） |  |  |
 
-## レポート課題
-後日掲載
 
-<!-- ## レポート課題
+## レポート課題
 課題内容は，[こちらのページ](https://nbviewer.org/github/hontolab-courses/dmml-2022/blob/main/notebook/assignment.ipynb)に記載．
 
-* 締め切り：2022年7月24日（金）
+* 締め切り：2022年7月1日（金）
 * 提出先：学務情報システム
 * 提出形式
 	* [こちらで指定したテンプレートファイル（Wordファイル）](https://github.com/hontolab-courses/dmml-2022/raw/main/report-template.docx)をレポートを作成すること．指定したテンプレート以外を用いた場合は，採点対象としない．
-	* 提出時にはWordファイルをPDFファイルに変換すること -->
+	* 提出時にはWordファイルをPDFファイルに変換すること
